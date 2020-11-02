@@ -40,7 +40,7 @@ public class Lab1 {
                                         default:
                                                 l[i][j] = f3(x[j]);
                                 }
-                        System.out.printf("%7.2f ",l[i][j]); // на числа отведены 7 знаков + пробел
+                        System.out.printf("%7.2f ", l[i][j]); // на числа отведены 7 знаков + пробел
                         }
 
                 }
