@@ -11,7 +11,7 @@ public class Lab1 {
 		return log(exp(pow(tan(x), (0.5 * x))));
 }
 	public static double f3(double x){
-		return log(pow(tan(asin(1 / exp(pow(acos((x - 3) / 18),exp(pow((1.0 / 2 * x), 2)))))), 2));
+		return log(pow(tan(asin(1 / exp(pow(acos((x - 3) / 18), exp(pow((1.0 / 2 * x), 2)))))), 2));
 }
         public static void main (String[] args) {
                 long d[] = new long[8];
